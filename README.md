@@ -2,6 +2,7 @@
 
 ### requirements
 Python 3.6.x
+
 Python 3.7 apparently doesn't work
 
 ```
