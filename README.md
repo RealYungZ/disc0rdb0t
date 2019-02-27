@@ -1,6 +1,9 @@
 ﻿# disc0rdb0t
 
-### installation
+### requirements
+Python 3.6.x
+Python 3.7 apparently doesn't work
+
 ```
-pip3 install discord
+python -m pip install discord.py==0.16.12
 ```
